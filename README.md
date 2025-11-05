@@ -166,4 +166,4 @@ Quantidade de caixas utilizadas (fechadas + 1 em uso): 1
 
 ---
 *Autor: Marcos Detrano*
-*Curso: Algoritmos e Lógica de Programação - UniFECAF*
+*Curso: Graduação Inteligência Artificial e Automação Digital - UniFECAF & RocketSeat*
